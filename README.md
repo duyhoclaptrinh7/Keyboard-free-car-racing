@@ -14,11 +14,10 @@ Keyboard-free-car-racing turns two-hand gestures captured by your webcam into st
 
 
 ```markdown
-![demo.gif](docs/demo.gif)
 
-or
 
-[Watch demo on YouTube](https://youtube.com/your-demo-link)
+https://github.com/user-attachments/assets/63c78631-c7c8-45b2-bf86-2735e7bd3f07
+
 ```
 
 Replace the link with your GIF or video URL.
