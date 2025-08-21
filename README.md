@@ -12,10 +12,7 @@ Keyboard-free-car-racing turns two-hand gestures captured by your webcam into st
 **Demo video**
 
 <p align="center">
-  <video controls width="720">
-    <source src="https://github.com/duyhoclaptrinh7/Keyboard-free-car-racing/raw/refs/heads/master/demo/demo.mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="demo/demo.gif" width="720">
 </p>
 
 
